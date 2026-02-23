@@ -30,15 +30,7 @@ Queue lifecycle and balanced team generation for multiplayer matches.
 - Repository: [roblox-lobby-matchmaking-core](https://github.com/daosist1/roblox-lobby-matchmaking-core)
 - Stack: LuaU, server validation, session flow modules
 
-## Code Style
-
-- No OOP and no metatables
-- No compact `if return end` syntax
-- Config modules use `return {}`
-- Player data from `plr.DataBase`
-- If table data is stored as string, decode with `HttpService:JSONDecode`
-- Short English one-line comment before each function
-
 ## Contacts
 
 - GitHub: [daosist1](https://github.com/daosist1)
+- Telegram: [crazy_only_me](https://t.me/crazy_only_me)

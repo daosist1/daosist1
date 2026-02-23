@@ -1,4 +1,4 @@
-# Hi, I am Rumin (daosist1)
+# Hi, I am Rumin
 
 Roblox LuaU backend and gameplay systems developer.
 I build server-side systems with clear module boundaries, data safety, and production-ready structure.
